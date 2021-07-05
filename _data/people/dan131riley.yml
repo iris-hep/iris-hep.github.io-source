@@ -64,3 +64,11 @@ presentations:
   location: Virtual
   focus-area: ia
   project: mkfit
+- title: Accelerated Strip Local reconstruction on GPUs
+  date: 2021-06-24
+  url: https://indico.cern.ch/event/992968/contributions/4421875/attachments/2270766/3856423/gpu-unpacking-2021-06-24.pdf
+  meeting: CMS Strip Calibration and Local Reconstruction Meeting
+  meetingurl: https://indico.cern.ch/event/992968/
+  location: Virtual
+  focus-area: ia
+  project: mkfit
