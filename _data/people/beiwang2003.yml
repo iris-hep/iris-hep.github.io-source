@@ -8,6 +8,78 @@ shortname: beiwang2003
 title: HPC Software Engineer
 website:
 presentations:
+- title: Using Nsight Compute to Understand Kernel Performance Bottlenecks
+  date: 2021-06-30
+  url:
+  meeting: Princeton Research Computing Group Meeting
+  meetingurl:
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+- title: Performance and Vectorization
+  date: 2021-01-25
+  url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/M2D-perf-tuning/
+  meeting: Princeton Research Computing Bootcamp (Winter 2021)
+  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/spring-2021-workshop-materials
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+- title: Floating Point Arithmetic Is Not Real
+  date: 2021-01-25
+  url: https://princetonuniversity.github.io/PUbootcamp_winter2021/sessions/M2B-floating-point/
+  meeting: Princeton Research Computing Bootcamp (Winter 2021)
+  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/spring-2021-workshop-materials
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+- title: Nvidia Kernel Profilers Case Study with Segment Linking Algorithm in Particle Tracking
+  date: 2021-01-13
+  url:
+  meeting: Princeton Research Computing Group Meeting
+  meetingurl:
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+- title: Performance and Vectorization
+  date: 2020-11-02
+  url: https://researchcomputing.princeton.edu/events/2020/performance-and-vectorization
+  meeting: Princeton Research Computing Mini-course (Fall 2020)
+  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-trainings/archives-past-workshops/fall-2020-workshop-materials
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+- title: Floating Point Arithmetic Is Not Real
+  date: 2020-10-05
+  url: https://researchcomputing.princeton.edu/events/2020/floating-point-arithmetic-not-real
+  meeting: Princeton Research Computing Mini-course (Fall 2020)
+  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-trainings/archives-past-workshops/fall-2020-workshop-materials
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+- title: Introduction to FPGAs
+  date: 2020-09-09
+  url:
+  meeting: Princeton Research Computing Group Meeting
+  meetingurl:
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
+- title: Floating Point Arithmetic Is Not Real
+  date: 2020-05-10
+  url: https://researchcomputing.princeton.edu/events/2020/virtual-workshop-floating-point-arithmetic-not-real
+  meeting: Princeton Research Computing Mini-course (Spring 2020)
+  meetingurl: https://researchcomputing.princeton.edu/learn/workshops-live-training/archives-past-workshops/workshop-materials
+  location: Virtual
+  focus-area: ia
+  project:
+  labels:
 - title: Parallelizing the unpacking and clustering of detector data for reconstruction
     of charged particle tracks on multi-core CPUs and many-core GPUs
   date: 2020-04-22
