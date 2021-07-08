@@ -90,3 +90,11 @@ presentations:
   location: "(Virtual)"
   focus-area: as
   project: cabinetry
+- title: Binned template fits with cabinetry
+  date: 2021-07-06
+  url: https://indico.cern.ch/event/1019958/contributions/4421868/
+  meeting: PyHEP 2021 Workshop
+  meetingurl: https://indico.cern.ch/event/1019958/
+  location: "(Virtual)"
+  focus-area: as
+  project: cabinetry
