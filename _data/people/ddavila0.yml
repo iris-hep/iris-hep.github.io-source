@@ -9,6 +9,23 @@ shortname: ddavila0
 title: Scientific Software Developer and Researcher
 website:
 presentations:
+
+- title: 'OSG Xrootd Monitoring'
+  date: 2021-06-23
+  url: https://indico.cern.ch/event/1051022/contributions/4420830/attachments/2270011/3854976/WLCG%20XRootD%20Monitoring%20Meeting.pdf
+  meeting: "WLCG - xrootd monitoring discussion"
+  meetingurl: https://indico.cern.ch/event/1051022/
+  focus-area: doma
+  project: tpc
+  location: virtual
+- title: 'Transferring at 500Gbps with XRootD'
+  date: 2021-05-12
+  url: https://indico.cern.ch/event/925547/contributions/3889479/attachments/2244115/3805460/Transferring%20at%20500gbps%20with%20XRootD.pdf
+  meeting: "S&C Blueprint Meeting - Data Challenge"
+  meetingurl: https://indico.cern.ch/event/925547/
+  focus-area: doma
+  project: tpc
+  location: virtual
 - title: 'HTTP Third-Party Copy: Getting rid of GridFTP'
   date: 2021-03-03
   url: https://indico.fnal.gov/event/47040/contributions/208459/attachments/140622/176781/HTTP_Third-Party_Copy__Getting_rid_of_GridFTP.pdf
